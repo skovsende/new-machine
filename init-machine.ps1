@@ -10,7 +10,6 @@ choco install firefox -y
 choco install vscode -y
 choco install totalcommander -y
 choco install slack -y
-choco install docker-desktop -y
 choco install putty -y
 choco install kdiff3 -y
 choco install terraform -y
