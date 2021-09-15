@@ -3,6 +3,8 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 choco install git -y
 choco install dotnetcore -y
+choco install dotnet-sdk -y
+choco install dotnet -y
 choco install dotnetcore-sdk -y
 choco install poshgit -y
 choco install jetbrainstoolbox -y
